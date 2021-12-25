@@ -25,7 +25,62 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #ddecf0;
+}
+.card1{
+  background-color: rgb(228, 240, 240);
+  margin-top: 9px;
+}
+h1{
+  background-color: rgb(44, 25, 212);
+  color: white;
+  text-align: center;
+}
+.button{
+  background-color: rgb(168, 150, 248);
+  color: rgb(20, 20, 20);
+  width: 120px;
+  height: 40px;
+  margin-left: 10px;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.button:hover{
+  transform: scale(1.05);
+}
+.button2:hover{
+  transform: scale(1.05);
+}
+.button2{
+  background-color: rgb(168, 150, 248);
+  color: rgb(20, 20, 20);
+  width: 80px;
+  height: 40px;
+  font-size: 13px;
+  font-weight: 700;
+  margin-left: 4px;
+  cursor: pointer;
+}
+.title{
+  margin-left: 15px;
+}
+.subtitle{
+  margin-left: 13px;
+  padding-top: 0px;
+}
+.img{
+  width: 30%;
+  height: 300px;
+  margin-left: 13px;
+}
+.text{
+  margin-left: 15px;
+  font-size: 15px;
+}
+.subtitle1{
+  margin-left: 13px;
+  font-size: 16px;
 }
 
 @keyframes App-logo-spin {
